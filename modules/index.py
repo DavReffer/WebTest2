@@ -5,4 +5,4 @@ from app import app
 @app.route("/")
 @app.route("/<name>")
 def index(name='Anonymous'):
-    return f"prueba de usuario {name}!!"
+    return f"Hello {name}!!"

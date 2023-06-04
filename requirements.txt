@@ -1,2 +1,5 @@
 Flask
 gunicorn 
+pymssql 
+WTForms
+bcrypt
